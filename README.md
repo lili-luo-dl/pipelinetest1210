@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/lililuo0915/migration002/_apis/build/status/lili-luo-dl.pipelinetest1210?branchName=master)](https://dev.azure.com/lililuo0915/migration002/_build/latest?definitionId=7&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
